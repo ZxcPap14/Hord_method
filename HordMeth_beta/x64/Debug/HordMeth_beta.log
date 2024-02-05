@@ -1,0 +1,11 @@
+﻿  HordMeth_beta.cpp
+C:\Users\SystemX\source\repos\MatanTest\HordMeth_beta\HordMeth_beta.cpp(109,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SystemX\source\repos\MatanTest\HordMeth_beta\HordMeth_beta.cpp(109,18): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\SystemX\source\repos\MatanTest\HordMeth_beta\HordMeth_beta.cpp(264,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SystemX\source\repos\MatanTest\HordMeth_beta\HordMeth_beta.cpp(195,10): warning C4101: OperMas: неиспользованная локальная переменная
+C:\Users\SystemX\source\repos\MatanTest\HordMeth_beta\HordMeth_beta.cpp(197,9): warning C4101: OperMasIndex: неиспользованная локальная переменная
+C:\Users\SystemX\source\repos\MatanTest\HordMeth_beta\HordMeth_beta.cpp(270,12): warning C4101: test: неиспользованная локальная переменная
+C:\Users\SystemX\source\repos\MatanTest\HordMeth_beta\HordMeth_beta.cpp(263,12): warning C4101: newproiz: неиспользованная локальная переменная
+  HordMeth_beta.vcxproj -> C:\Users\SystemX\source\repos\MatanTest\x64\Debug\HordMeth_beta.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
