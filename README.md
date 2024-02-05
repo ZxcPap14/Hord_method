@@ -3,7 +3,7 @@
 
 
 
-    ![image](https://github.com/ZxcPap14/Hord_method/assets/144791987/5f12780c-6f29-44b8-abe9-b7880e7e509d)
+  ![image](https://github.com/ZxcPap14/Hord_method/assets/144791987/5f12780c-6f29-44b8-abe9-b7880e7e509d)
 
 
     prod by zxcPap14 :)
